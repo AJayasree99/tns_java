@@ -1,4 +1,4 @@
-package tns;
+package oopsDemo;
 
 public class AbstractionDEmo {
 	public static void main(String[] args) {
@@ -55,4 +55,5 @@ class SureshDemo extends RameshDemo  //2026
     }
     
 }
+
 
