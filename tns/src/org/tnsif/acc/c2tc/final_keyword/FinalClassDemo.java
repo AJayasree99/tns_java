@@ -1,4 +1,4 @@
-package org.tnsif.accenture.c2tc.final_keyword;
+package org.tnsif.acc.c2tc.final_keyword;
 
 class ImplementByHema
 {
