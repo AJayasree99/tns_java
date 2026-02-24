@@ -1,4 +1,4 @@
-package oopsDemo;
+package org.tnsif.acc.c2tc.core_java.oopsdemo;
 class Human1{
 	private int age;
     private String name;

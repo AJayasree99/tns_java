@@ -1,4 +1,4 @@
-package oopsDemo;
+package org.tnsif.acc.c2tc.core_java.oopsdemo;
 class Employee{
 	void company() {
 		System.out.println("company : TNSIF");

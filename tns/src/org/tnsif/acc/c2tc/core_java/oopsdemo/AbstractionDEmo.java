@@ -1,4 +1,4 @@
-package oopsDemo;
+package org.tnsif.acc.c2tc.core_java.oopsdemo;
 
 public class AbstractionDEmo {
 	public static void main(String[] args) {
