@@ -1,4 +1,4 @@
-package org.tns.acc.c2tc.core_java.exceptionhandling;
+package org.tnsif.acc.c2tc.core_java.exceptionhandling;
 import java.util.Scanner;
 
 public class ArithematicExceptionDemo {
