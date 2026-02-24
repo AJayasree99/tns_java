@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.final_keyword;
+package org.tnsif.acc.c2tc.core_java.final_keyword;
 
 class ImplementByHema
 {
